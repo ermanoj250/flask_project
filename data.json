@@ -1,17 +1,17 @@
 [
-    {
-        "id": 1,
-        "name": "Manoj",
-        "role": "Admin"
-    },
-    {
-        "id": 2,
-        "name": "Rahul",
-        "role": "User"
-    },
-    {
-        "id": 3,
-        "name": "Amit",
-        "role": "Developer"
-    }
+  {
+    "id": 1,
+    "name": "Manoj",
+    "role": "Admin"
+  },
+  {
+    "id": 2,
+    "name": "Rahul",
+    "role": "Developer"
+  },
+  {
+    "id": 3,
+    "name": "Amit",
+    "role": "Tester"
+  }
 ]
